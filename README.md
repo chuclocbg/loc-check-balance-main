@@ -1,1 +1,4 @@
-# loc-check-balance-main
+## Installation
+```bash
+npm loc-check-balance-main
+```
